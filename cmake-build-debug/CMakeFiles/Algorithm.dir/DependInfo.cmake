@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/nguyenhung/Desktop/Algorithm/UCLN.cpp" "/home/nguyenhung/Desktop/Algorithm/cmake-build-debug/CMakeFiles/Algorithm.dir/UCLN.cpp.o"
+  "/home/nguyenhung/Desktop/Algorithm/Fibonacci.cpp" "/home/nguyenhung/Desktop/Algorithm/cmake-build-debug/CMakeFiles/Algorithm.dir/Fibonacci.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

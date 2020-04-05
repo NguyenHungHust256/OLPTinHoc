@@ -123,32 +123,32 @@ Algorithm/fast:
 	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/build
 .PHONY : Algorithm/fast
 
-UCLN.o: UCLN.cpp.o
+Fibonacci.o: Fibonacci.cpp.o
 
-.PHONY : UCLN.o
+.PHONY : Fibonacci.o
 
 # target to build an object file
-UCLN.cpp.o:
-	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/UCLN.cpp.o
-.PHONY : UCLN.cpp.o
+Fibonacci.cpp.o:
+	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/Fibonacci.cpp.o
+.PHONY : Fibonacci.cpp.o
 
-UCLN.i: UCLN.cpp.i
+Fibonacci.i: Fibonacci.cpp.i
 
-.PHONY : UCLN.i
+.PHONY : Fibonacci.i
 
 # target to preprocess a source file
-UCLN.cpp.i:
-	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/UCLN.cpp.i
-.PHONY : UCLN.cpp.i
+Fibonacci.cpp.i:
+	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/Fibonacci.cpp.i
+.PHONY : Fibonacci.cpp.i
 
-UCLN.s: UCLN.cpp.s
+Fibonacci.s: Fibonacci.cpp.s
 
-.PHONY : UCLN.s
+.PHONY : Fibonacci.s
 
 # target to generate assembly for a file
-UCLN.cpp.s:
-	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/UCLN.cpp.s
-.PHONY : UCLN.cpp.s
+Fibonacci.cpp.s:
+	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/Fibonacci.cpp.s
+.PHONY : Fibonacci.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Algorithm"
 	@echo "... edit_cache"
-	@echo "... UCLN.o"
-	@echo "... UCLN.i"
-	@echo "... UCLN.s"
+	@echo "... Fibonacci.o"
+	@echo "... Fibonacci.i"
+	@echo "... Fibonacci.s"
 .PHONY : help
 
 

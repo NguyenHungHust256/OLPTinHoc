@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "Algorithm"
   "Algorithm.pdb"
-  "CMakeFiles/Algorithm.dir/UCLN.cpp.o"
+  "CMakeFiles/Algorithm.dir/Fibonacci.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.
