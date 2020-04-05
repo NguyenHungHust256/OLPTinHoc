@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "Algorithm"
   "Algorithm.pdb"
-  "CMakeFiles/Algorithm.dir/DistrCountSort.cpp.o"
+  "CMakeFiles/Algorithm.dir/BinarySearch.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

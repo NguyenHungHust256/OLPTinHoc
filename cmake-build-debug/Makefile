@@ -123,32 +123,32 @@ Algorithm/fast:
 	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/build
 .PHONY : Algorithm/fast
 
-DistrCountSort.o: DistrCountSort.cpp.o
+BinarySearch.o: BinarySearch.cpp.o
 
-.PHONY : DistrCountSort.o
+.PHONY : BinarySearch.o
 
 # target to build an object file
-DistrCountSort.cpp.o:
-	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/DistrCountSort.cpp.o
-.PHONY : DistrCountSort.cpp.o
+BinarySearch.cpp.o:
+	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/BinarySearch.cpp.o
+.PHONY : BinarySearch.cpp.o
 
-DistrCountSort.i: DistrCountSort.cpp.i
+BinarySearch.i: BinarySearch.cpp.i
 
-.PHONY : DistrCountSort.i
+.PHONY : BinarySearch.i
 
 # target to preprocess a source file
-DistrCountSort.cpp.i:
-	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/DistrCountSort.cpp.i
-.PHONY : DistrCountSort.cpp.i
+BinarySearch.cpp.i:
+	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/BinarySearch.cpp.i
+.PHONY : BinarySearch.cpp.i
 
-DistrCountSort.s: DistrCountSort.cpp.s
+BinarySearch.s: BinarySearch.cpp.s
 
-.PHONY : DistrCountSort.s
+.PHONY : BinarySearch.s
 
 # target to generate assembly for a file
-DistrCountSort.cpp.s:
-	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/DistrCountSort.cpp.s
-.PHONY : DistrCountSort.cpp.s
+BinarySearch.cpp.s:
+	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/BinarySearch.cpp.s
+.PHONY : BinarySearch.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Algorithm"
 	@echo "... edit_cache"
-	@echo "... DistrCountSort.o"
-	@echo "... DistrCountSort.i"
-	@echo "... DistrCountSort.s"
+	@echo "... BinarySearch.o"
+	@echo "... BinarySearch.i"
+	@echo "... BinarySearch.s"
 .PHONY : help
 
 
