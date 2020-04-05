@@ -13,10 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d130890b-11b1-4a02-ae74-bd5f72a3e775" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Algorithm" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Algorithm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Algorithm.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Algorithm.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +58,7 @@
       <workItem from="1586050389212" duration="95000" />
       <workItem from="1586050487555" duration="2809000" />
       <workItem from="1586054135514" duration="594000" />
-      <workItem from="1586075135398" duration="5586000" />
+      <workItem from="1586075135398" duration="6406000" />
     </task>
     <servers />
   </component>

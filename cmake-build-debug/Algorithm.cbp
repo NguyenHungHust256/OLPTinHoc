@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/nguyenhung/Desktop/Algorithm/QuickSort.cpp">
+		<Unit filename="/home/nguyenhung/Desktop/Algorithm/DistrCountSort.cpp">
 			<Option target="Algorithm"/>
 		</Unit>
 		<Unit filename="/home/nguyenhung/Desktop/Algorithm/CMakeLists.txt">

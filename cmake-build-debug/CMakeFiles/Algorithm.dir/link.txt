@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Algorithm.dir/QuickSort.cpp.o  -o Algorithm 
+/usr/bin/c++  -g   CMakeFiles/Algorithm.dir/DistrCountSort.cpp.o  -o Algorithm 

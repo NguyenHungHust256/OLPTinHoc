@@ -123,32 +123,32 @@ Algorithm/fast:
 	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/build
 .PHONY : Algorithm/fast
 
-QuickSort.o: QuickSort.cpp.o
+DistrCountSort.o: DistrCountSort.cpp.o
 
-.PHONY : QuickSort.o
+.PHONY : DistrCountSort.o
 
 # target to build an object file
-QuickSort.cpp.o:
-	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/QuickSort.cpp.o
-.PHONY : QuickSort.cpp.o
+DistrCountSort.cpp.o:
+	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/DistrCountSort.cpp.o
+.PHONY : DistrCountSort.cpp.o
 
-QuickSort.i: QuickSort.cpp.i
+DistrCountSort.i: DistrCountSort.cpp.i
 
-.PHONY : QuickSort.i
+.PHONY : DistrCountSort.i
 
 # target to preprocess a source file
-QuickSort.cpp.i:
-	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/QuickSort.cpp.i
-.PHONY : QuickSort.cpp.i
+DistrCountSort.cpp.i:
+	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/DistrCountSort.cpp.i
+.PHONY : DistrCountSort.cpp.i
 
-QuickSort.s: QuickSort.cpp.s
+DistrCountSort.s: DistrCountSort.cpp.s
 
-.PHONY : QuickSort.s
+.PHONY : DistrCountSort.s
 
 # target to generate assembly for a file
-QuickSort.cpp.s:
-	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/QuickSort.cpp.s
-.PHONY : QuickSort.cpp.s
+DistrCountSort.cpp.s:
+	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/DistrCountSort.cpp.s
+.PHONY : DistrCountSort.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Algorithm"
 	@echo "... edit_cache"
-	@echo "... QuickSort.o"
-	@echo "... QuickSort.i"
-	@echo "... QuickSort.s"
+	@echo "... DistrCountSort.o"
+	@echo "... DistrCountSort.i"
+	@echo "... DistrCountSort.s"
 .PHONY : help
 
 
