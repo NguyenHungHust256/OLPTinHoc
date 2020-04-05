@@ -57,27 +57,27 @@ include CMakeFiles/Algorithm.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Algorithm.dir/flags.make
 
-CMakeFiles/Algorithm.dir/Fibonacci.cpp.o: CMakeFiles/Algorithm.dir/flags.make
-CMakeFiles/Algorithm.dir/Fibonacci.cpp.o: ../Fibonacci.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nguyenhung/Desktop/Algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Algorithm.dir/Fibonacci.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Algorithm.dir/Fibonacci.cpp.o -c /home/nguyenhung/Desktop/Algorithm/Fibonacci.cpp
+CMakeFiles/Algorithm.dir/BucketSort.cpp.o: CMakeFiles/Algorithm.dir/flags.make
+CMakeFiles/Algorithm.dir/BucketSort.cpp.o: ../BucketSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/nguyenhung/Desktop/Algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Algorithm.dir/BucketSort.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Algorithm.dir/BucketSort.cpp.o -c /home/nguyenhung/Desktop/Algorithm/BucketSort.cpp
 
-CMakeFiles/Algorithm.dir/Fibonacci.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithm.dir/Fibonacci.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nguyenhung/Desktop/Algorithm/Fibonacci.cpp > CMakeFiles/Algorithm.dir/Fibonacci.cpp.i
+CMakeFiles/Algorithm.dir/BucketSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithm.dir/BucketSort.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/nguyenhung/Desktop/Algorithm/BucketSort.cpp > CMakeFiles/Algorithm.dir/BucketSort.cpp.i
 
-CMakeFiles/Algorithm.dir/Fibonacci.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithm.dir/Fibonacci.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nguyenhung/Desktop/Algorithm/Fibonacci.cpp -o CMakeFiles/Algorithm.dir/Fibonacci.cpp.s
+CMakeFiles/Algorithm.dir/BucketSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithm.dir/BucketSort.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/nguyenhung/Desktop/Algorithm/BucketSort.cpp -o CMakeFiles/Algorithm.dir/BucketSort.cpp.s
 
 # Object files for target Algorithm
 Algorithm_OBJECTS = \
-"CMakeFiles/Algorithm.dir/Fibonacci.cpp.o"
+"CMakeFiles/Algorithm.dir/BucketSort.cpp.o"
 
 # External object files for target Algorithm
 Algorithm_EXTERNAL_OBJECTS =
 
-Algorithm: CMakeFiles/Algorithm.dir/Fibonacci.cpp.o
+Algorithm: CMakeFiles/Algorithm.dir/BucketSort.cpp.o
 Algorithm: CMakeFiles/Algorithm.dir/build.make
 Algorithm: CMakeFiles/Algorithm.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/nguyenhung/Desktop/Algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Algorithm"

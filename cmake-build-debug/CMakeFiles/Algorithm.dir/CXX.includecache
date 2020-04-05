@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/nguyenhung/Desktop/Algorithm/Fibonacci.cpp
+/home/nguyenhung/Desktop/Algorithm/BucketSort.cpp
 iostream
+/home/nguyenhung/Desktop/Algorithm/iostream
+stdlib.h
 -
 

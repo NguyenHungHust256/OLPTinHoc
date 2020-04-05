@@ -123,32 +123,32 @@ Algorithm/fast:
 	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/build
 .PHONY : Algorithm/fast
 
-Fibonacci.o: Fibonacci.cpp.o
+BucketSort.o: BucketSort.cpp.o
 
-.PHONY : Fibonacci.o
+.PHONY : BucketSort.o
 
 # target to build an object file
-Fibonacci.cpp.o:
-	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/Fibonacci.cpp.o
-.PHONY : Fibonacci.cpp.o
+BucketSort.cpp.o:
+	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/BucketSort.cpp.o
+.PHONY : BucketSort.cpp.o
 
-Fibonacci.i: Fibonacci.cpp.i
+BucketSort.i: BucketSort.cpp.i
 
-.PHONY : Fibonacci.i
+.PHONY : BucketSort.i
 
 # target to preprocess a source file
-Fibonacci.cpp.i:
-	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/Fibonacci.cpp.i
-.PHONY : Fibonacci.cpp.i
+BucketSort.cpp.i:
+	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/BucketSort.cpp.i
+.PHONY : BucketSort.cpp.i
 
-Fibonacci.s: Fibonacci.cpp.s
+BucketSort.s: BucketSort.cpp.s
 
-.PHONY : Fibonacci.s
+.PHONY : BucketSort.s
 
 # target to generate assembly for a file
-Fibonacci.cpp.s:
-	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/Fibonacci.cpp.s
-.PHONY : Fibonacci.cpp.s
+BucketSort.cpp.s:
+	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/BucketSort.cpp.s
+.PHONY : BucketSort.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Algorithm"
 	@echo "... edit_cache"
-	@echo "... Fibonacci.o"
-	@echo "... Fibonacci.i"
-	@echo "... Fibonacci.s"
+	@echo "... BucketSort.o"
+	@echo "... BucketSort.i"
+	@echo "... BucketSort.s"
 .PHONY : help
 
 
