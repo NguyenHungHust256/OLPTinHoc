@@ -123,32 +123,32 @@ Algorithm/fast:
 	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/build
 .PHONY : Algorithm/fast
 
-BucketSort.o: BucketSort.cpp.o
+QuickSort.o: QuickSort.cpp.o
 
-.PHONY : BucketSort.o
+.PHONY : QuickSort.o
 
 # target to build an object file
-BucketSort.cpp.o:
-	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/BucketSort.cpp.o
-.PHONY : BucketSort.cpp.o
+QuickSort.cpp.o:
+	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/QuickSort.cpp.o
+.PHONY : QuickSort.cpp.o
 
-BucketSort.i: BucketSort.cpp.i
+QuickSort.i: QuickSort.cpp.i
 
-.PHONY : BucketSort.i
+.PHONY : QuickSort.i
 
 # target to preprocess a source file
-BucketSort.cpp.i:
-	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/BucketSort.cpp.i
-.PHONY : BucketSort.cpp.i
+QuickSort.cpp.i:
+	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/QuickSort.cpp.i
+.PHONY : QuickSort.cpp.i
 
-BucketSort.s: BucketSort.cpp.s
+QuickSort.s: QuickSort.cpp.s
 
-.PHONY : BucketSort.s
+.PHONY : QuickSort.s
 
 # target to generate assembly for a file
-BucketSort.cpp.s:
-	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/BucketSort.cpp.s
-.PHONY : BucketSort.cpp.s
+QuickSort.cpp.s:
+	$(MAKE) -f CMakeFiles/Algorithm.dir/build.make CMakeFiles/Algorithm.dir/QuickSort.cpp.s
+.PHONY : QuickSort.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Algorithm"
 	@echo "... edit_cache"
-	@echo "... BucketSort.o"
-	@echo "... BucketSort.i"
-	@echo "... BucketSort.s"
+	@echo "... QuickSort.o"
+	@echo "... QuickSort.i"
+	@echo "... QuickSort.s"
 .PHONY : help
 
 
